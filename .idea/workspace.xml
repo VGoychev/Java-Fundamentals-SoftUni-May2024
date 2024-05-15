@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6556c743-44f9-4c5d-bffc-2c8e6328d442" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Fundamentals-SoftUni-May2024.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P01_StudentInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P02_Passed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P03_PassedOrFailed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P04_BackIn30Minutes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P05_MonthPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P06_ForeignLanguages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P07_TheatrePromotions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P08_DivisibleBy3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P09_SumOfOddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P10_MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P11_EvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P12_RefactorSumOfOddNumbers.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2gVggMymHfGNFUfJdliFUW4lW3j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.P01_StudentInformation.executor": "Run",
+    "Application.P04_BackIn30Minutes.executor": "Run",
+    "Application.P07_TheatrePromotions.executor": "Run",
+    "Application.P08_DivisibleBy3.executor": "Run",
+    "Application.P09_SumOfOddNumbers.executor": "Run",
+    "Application.P10_MultiplicationTable.executor": "Run",
+    "Application.P11_EvenNumber.executor": "Run",
+    "Application.P12_RefactorSumOfOddNumbers.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "editing.templates"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6556c743-44f9-4c5d-bffc-2c8e6328d442" name="Changes" comment="" />
+      <created>1715788269892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715788269892</updated>
+    </task>
+    <servers />
+  </component>
+</project>
