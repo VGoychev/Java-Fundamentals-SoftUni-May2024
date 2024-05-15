@@ -11,7 +11,7 @@ public class P07_TheatrePromotions {
         if (age < 0 || age > 122){
             System.out.println("Error!");
         }
-        if(typeOfDay.equals("Weekday")){
+        if( typeOfDay.equals("Weekday")){
             if(0 <= age && age <= 18){
                 price = 12;
             } else if (18 < age && age <= 64){
