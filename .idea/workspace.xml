@@ -4,27 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6556c743-44f9-4c5d-bffc-2c8e6328d442" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Fundamentals-SoftUni-May2024.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P01_StudentInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P02_Passed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P03_PassedOrFailed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P04_BackIn30Minutes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P05_MonthPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P06_ForeignLanguages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P07_TheatrePromotions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P08_DivisibleBy3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P09_SumOfOddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P10_MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P11_EvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverview/P12_RefactorSumOfOddNumbers.java" afterDir="false" />
+    <list default="true" id="6556c743-44f9-4c5d-bffc-2c8e6328d442" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverviewExercise/P01_Ages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverviewExercise/P02_Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverviewExercise/P03_Vacation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverviewExercise/P04_PrintAndSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverviewExercise/P05_Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverviewExercise/P06_StrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverviewExercise/P07_VendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverviewExercise/P08_TriangleOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverviewExercise/P09_Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramingBasicsOverviewExercise/P11_RageExpenses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +32,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2gVggMymHfGNFUfJdliFUW4lW3j" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -52,13 +43,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.P01_Ages.executor": "Run",
     "Application.P01_StudentInformation.executor": "Run",
+    "Application.P02_Division.executor": "Run",
+    "Application.P03_Vacation.executor": "Run",
     "Application.P04_BackIn30Minutes.executor": "Run",
+    "Application.P04_PrintAndSum.executor": "Run",
+    "Application.P05_Login.executor": "Run",
+    "Application.P06_StrongNumber.executor": "Run",
     "Application.P07_TheatrePromotions.executor": "Run",
+    "Application.P07_VendingMachine.executor": "Run",
     "Application.P08_DivisibleBy3.executor": "Run",
+    "Application.P08_TriangleOfNumbers.executor": "Run",
+    "Application.P09_Orders.executor": "Run",
     "Application.P09_SumOfOddNumbers.executor": "Run",
     "Application.P10_MultiplicationTable.executor": "Run",
     "Application.P11_EvenNumber.executor": "Run",
+    "Application.P11_RageExpenses.executor": "Debug",
     "Application.P12_RefactorSumOfOddNumbers.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -78,6 +79,27 @@
       <option name="presentableId" value="Default" />
       <updated>1715788269892</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1715795322387</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715795322387</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1715795369320</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715795369320</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
