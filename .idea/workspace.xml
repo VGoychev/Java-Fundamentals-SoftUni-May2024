@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6556c743-44f9-4c5d-bffc-2c8e6328d442" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables/P01_ConvertMetersToKilometers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables/P02_PoundsToDollars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables/P03_ExactSumOfRealNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables/P04_TownInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables/P05_ConcatNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables/P06_CharsToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables/P07_ReversedChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables/P08_LowerOrUpper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables/P09_CenturiesToMinutes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables/P10_SpecialNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables/P11_RefactorVolumeOfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables/P12_RefactorSpecialNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,8 +62,10 @@
     "Application.P09_Orders.executor": "Run",
     "Application.P09_SumOfOddNumbers.executor": "Run",
     "Application.P10_MultiplicationTable.executor": "Run",
+    "Application.P10_SpecialNumbers.executor": "Run",
     "Application.P11_EvenNumber.executor": "Run",
     "Application.P11_RageExpenses.executor": "Debug",
+    "Application.P12_RefactorSpecialNumbers.executor": "Run",
     "Application.P12_RefactorSumOfOddNumbers.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -121,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716035898827</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1716055627608</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716055627608</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
