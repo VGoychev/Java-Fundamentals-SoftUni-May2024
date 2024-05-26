@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6556c743-44f9-4c5d-bffc-2c8e6328d442" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariablesMoreExercises/P01_DataTypeFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariablesMoreExercises/P02_FromLeftToRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariablesMoreExercises/P03_FloatingEquality.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariablesMoreExercises/P04_RefactoringPrimeChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariablesMoreExercises/P05_DecryptingMessages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariablesMoreExercises/P06_BalancedBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/P01_DayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/P02_PrintNumbersInReverseOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,57 +33,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.P01_Ages.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P01_ConvertMetersToKilometers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P01_IntegerOperations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P01_SortNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P01_StudentInformation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P02_Division.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P02_EnglishNameOfTheLastDigit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P02_SumDigits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P03_ExactSumOfRealNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P03_Vacation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P04_BackIn30Minutes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P04_PrintAndSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P04_ReverseString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P04_SumOfChars.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.P04_TownInfo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P05_ConcatNames.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P05_Login.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P05_PrintPartOfASCIITable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P06_CharsToString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P06_StrongNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P06_TriplesOfLatinLetters.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.P07_ReversedChars.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P07_TheatrePromotions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P07_VendingMachine.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P07_WaterOverflow.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P08_BeerKegs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P08_DivisibleBy3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P08_LowerOrUpper.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P08_TriangleOfNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P09_CenturiesToMinutes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P09_Orders.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P09_SpiceMustFlow.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P09_SumOfOddNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P10_MultiplicationTable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P10_SpecialNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P11_EvenNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P11_RageExpenses.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.P11_Snowballs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P12_RefactorSpecialNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P12_RefactorSumOfOddNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DayOfWeek.executor": "Run",
+    "Application.P01_Ages.executor": "Run",
+    "Application.P01_ConvertMetersToKilometers.executor": "Run",
+    "Application.P01_IntegerOperations.executor": "Run",
+    "Application.P01_SortNumbers.executor": "Run",
+    "Application.P01_StudentInformation.executor": "Run",
+    "Application.P02_Division.executor": "Run",
+    "Application.P02_EnglishNameOfTheLastDigit.executor": "Run",
+    "Application.P02_SumDigits.executor": "Run",
+    "Application.P03_ExactSumOfRealNumbers.executor": "Run",
+    "Application.P03_Vacation.executor": "Run",
+    "Application.P04_BackIn30Minutes.executor": "Run",
+    "Application.P04_PrintAndSum.executor": "Run",
+    "Application.P04_ReverseString.executor": "Run",
+    "Application.P04_SumOfChars.executor": "Debug",
+    "Application.P04_TownInfo.executor": "Run",
+    "Application.P05_ConcatNames.executor": "Run",
+    "Application.P05_Login.executor": "Run",
+    "Application.P05_PrintPartOfASCIITable.executor": "Run",
+    "Application.P06_CharsToString.executor": "Run",
+    "Application.P06_StrongNumber.executor": "Run",
+    "Application.P06_TriplesOfLatinLetters.executor": "Debug",
+    "Application.P07_ReversedChars.executor": "Run",
+    "Application.P07_TheatrePromotions.executor": "Run",
+    "Application.P07_VendingMachine.executor": "Run",
+    "Application.P07_WaterOverflow.executor": "Run",
+    "Application.P08_BeerKegs.executor": "Run",
+    "Application.P08_DivisibleBy3.executor": "Run",
+    "Application.P08_LowerOrUpper.executor": "Run",
+    "Application.P08_TriangleOfNumbers.executor": "Run",
+    "Application.P09_CenturiesToMinutes.executor": "Run",
+    "Application.P09_Orders.executor": "Run",
+    "Application.P09_SpiceMustFlow.executor": "Run",
+    "Application.P09_SumOfOddNumbers.executor": "Run",
+    "Application.P10_MultiplicationTable.executor": "Run",
+    "Application.P10_SpecialNumbers.executor": "Run",
+    "Application.P11_EvenNumber.executor": "Run",
+    "Application.P11_RageExpenses.executor": "Debug",
+    "Application.P11_Snowballs.executor": "Run",
+    "Application.P12_RefactorSpecialNumbers.executor": "Run",
+    "Application.P12_RefactorSumOfOddNumbers.executor": "Run",
+    "Application.PrintNumbersInReverseOrder.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "editing.templates"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -153,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716234521157</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1716317192663</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716317192663</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
