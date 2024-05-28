@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6556c743-44f9-4c5d-bffc-2c8e6328d442" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/ArraysExercise/P06_EqualSums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysExercise/P07_CondenseArrayToNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +66,7 @@
     "Application.P06_EqualSums.executor": "Debug",
     "Application.P06_StrongNumber.executor": "Run",
     "Application.P06_TriplesOfLatinLetters.executor": "Debug",
+    "Application.P07_CondenseArrayToNumber.executor": "Debug",
     "Application.P07_ReversedChars.executor": "Run",
     "Application.P07_TheatrePromotions.executor": "Run",
     "Application.P07_VendingMachine.executor": "Run",
@@ -200,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716834917075</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1716838156555</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1716838156555</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
