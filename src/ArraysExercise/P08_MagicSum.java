@@ -11,6 +11,12 @@ public class P08_MagicSum {
                 .mapToInt(Integer::parseInt)
                 .toArray();
         int number = Integer.parseInt(scanner.nextLine());
-
+        for (int i = 0; i < numbers.length; i++) {
+            for (int j = i + 1; j < numbers.length; j++) {
+                if (numbers[i] + numbers[j] == number){
+                    System.out.println(numbers[i] + " " + numbers[j]);
+                }
+            }
+        }
     }
 }

@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6556c743-44f9-4c5d-bffc-2c8e6328d442" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/ArraysExercise/P07_CondenseArrayToNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysExercise/P09_ArrayModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysExercise/P10_TheLift.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraysExercise/P08_MagicSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysExercise/P08_MagicSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,13 +76,16 @@
     "Application.P08_BeerKegs.executor": "Run",
     "Application.P08_DivisibleBy3.executor": "Run",
     "Application.P08_LowerOrUpper.executor": "Run",
+    "Application.P08_MagicSum.executor": "Run",
     "Application.P08_TriangleOfNumbers.executor": "Run",
+    "Application.P09_ArrayModifier.executor": "Run",
     "Application.P09_CenturiesToMinutes.executor": "Run",
     "Application.P09_Orders.executor": "Run",
     "Application.P09_SpiceMustFlow.executor": "Run",
     "Application.P09_SumOfOddNumbers.executor": "Run",
     "Application.P10_MultiplicationTable.executor": "Run",
     "Application.P10_SpecialNumbers.executor": "Run",
+    "Application.P10_TheLift.executor": "Run",
     "Application.P11_EvenNumber.executor": "Run",
     "Application.P11_RageExpenses.executor": "Debug",
     "Application.P11_Snowballs.executor": "Run",
@@ -209,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716838156555</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1716925605770</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1716925605770</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
