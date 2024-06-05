@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6556c743-44f9-4c5d-bffc-2c8e6328d442" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/ArraysExercise/P09_ArrayModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysExercise/P10_TheLift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/P01_SignOfInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/P02_Grades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/P03_PrintingTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/P04_Calculations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/P05_Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/P06_CalculateRectangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/P07_RepeatString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/P08_MathPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/P09_GreaterOfTwoValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/P10_MultiplyEvenByOdds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/P11_MathOperations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArraysExercise/P08_MagicSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysExercise/P08_MagicSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,19 +48,23 @@
     "Application.P01_Ages.executor": "Run",
     "Application.P01_ConvertMetersToKilometers.executor": "Run",
     "Application.P01_IntegerOperations.executor": "Run",
+    "Application.P01_SignOfInteger.executor": "Run",
     "Application.P01_SortNumbers.executor": "Run",
     "Application.P01_StudentInformation.executor": "Run",
     "Application.P01_Train.executor": "Run",
     "Application.P02_CommonElements.executor": "Debug",
     "Application.P02_Division.executor": "Run",
     "Application.P02_EnglishNameOfTheLastDigit.executor": "Run",
+    "Application.P02_Grades.executor": "Run",
     "Application.P02_SumDigits.executor": "Run",
     "Application.P03_ExactSumOfRealNumbers.executor": "Run",
+    "Application.P03_PrintingTriangle.executor": "Run",
     "Application.P03_SumEvenNumbers.executor": "Run",
     "Application.P03_Vacation.executor": "Run",
     "Application.P03_ZigZagArrays.executor": "Run",
     "Application.P04_ArrayRotation.executor": "Debug",
     "Application.P04_BackIn30Minutes.executor": "Run",
+    "Application.P04_Calculations.executor": "Run",
     "Application.P04_PrintAndSum.executor": "Run",
     "Application.P04_ReverseAnArrayOfStrings.executor": "Debug",
     "Application.P04_ReverseString.executor": "Run",
@@ -61,14 +73,17 @@
     "Application.P05_ConcatNames.executor": "Run",
     "Application.P05_EvenAndOddSubtraction.executor": "Run",
     "Application.P05_Login.executor": "Run",
+    "Application.P05_Orders.executor": "Run",
     "Application.P05_PrintPartOfASCIITable.executor": "Run",
     "Application.P05_TopIntegers.executor": "Debug",
+    "Application.P06_CalculateRectangleArea.executor": "Run",
     "Application.P06_CharsToString.executor": "Run",
     "Application.P06_EqualArrays.executor": "Run",
     "Application.P06_EqualSums.executor": "Debug",
     "Application.P06_StrongNumber.executor": "Run",
     "Application.P06_TriplesOfLatinLetters.executor": "Debug",
     "Application.P07_CondenseArrayToNumber.executor": "Debug",
+    "Application.P07_RepeatString.executor": "Run",
     "Application.P07_ReversedChars.executor": "Run",
     "Application.P07_TheatrePromotions.executor": "Run",
     "Application.P07_VendingMachine.executor": "Run",
@@ -77,16 +92,20 @@
     "Application.P08_DivisibleBy3.executor": "Run",
     "Application.P08_LowerOrUpper.executor": "Run",
     "Application.P08_MagicSum.executor": "Run",
+    "Application.P08_MathPower.executor": "Run",
     "Application.P08_TriangleOfNumbers.executor": "Run",
     "Application.P09_ArrayModifier.executor": "Run",
     "Application.P09_CenturiesToMinutes.executor": "Run",
+    "Application.P09_GreaterOfTwoValues.executor": "Run",
     "Application.P09_Orders.executor": "Run",
     "Application.P09_SpiceMustFlow.executor": "Run",
     "Application.P09_SumOfOddNumbers.executor": "Run",
     "Application.P10_MultiplicationTable.executor": "Run",
+    "Application.P10_MultiplyEvenByOdds.executor": "Debug",
     "Application.P10_SpecialNumbers.executor": "Run",
     "Application.P10_TheLift.executor": "Run",
     "Application.P11_EvenNumber.executor": "Run",
+    "Application.P11_MathOperations.executor": "Run",
     "Application.P11_RageExpenses.executor": "Debug",
     "Application.P11_Snowballs.executor": "Run",
     "Application.P12_RefactorSpecialNumbers.executor": "Run",
@@ -222,7 +241,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716925605770</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1717009132669</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1717009132669</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
