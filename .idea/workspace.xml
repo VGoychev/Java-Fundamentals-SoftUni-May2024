@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6556c743-44f9-4c5d-bffc-2c8e6328d442" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/MethodsExercise/P02_VowelsCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodsExercise/P03_CharactersInRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodsExercise/P04_PasswordValidator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MethodsExercise/P01_SmallestOfThreeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodsExercise/P01_SmallestOfThreeNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +49,7 @@
     "Application.P02_Grades.executor": "Run",
     "Application.P02_SumDigits.executor": "Run",
     "Application.P02_VowelsCount.executor": "Run",
-    "Application.P03_CharactersInRange.executor": "Debug",
+    "Application.P03_CharactersInRange.executor": "Run",
     "Application.P03_ExactSumOfRealNumbers.executor": "Run",
     "Application.P03_PrintingTriangle.executor": "Run",
     "Application.P03_SumEvenNumbers.executor": "Run",
@@ -60,6 +58,7 @@
     "Application.P04_ArrayRotation.executor": "Debug",
     "Application.P04_BackIn30Minutes.executor": "Run",
     "Application.P04_Calculations.executor": "Run",
+    "Application.P04_PasswordValidator.executor": "Run",
     "Application.P04_PrintAndSum.executor": "Run",
     "Application.P04_ReverseAnArrayOfStrings.executor": "Debug",
     "Application.P04_ReverseString.executor": "Run",
@@ -252,22 +251,19 @@
       <option name="project" value="LOCAL" />
       <updated>1717612020147</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1717614402195</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1717614402195</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MethodsExercise/P03_CharactersInRange.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
