@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6556c743-44f9-4c5d-bffc-2c8e6328d442" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/MethodsExercise/P05_AddAndSubtract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodsExercise/P06_MiddleCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodsExercise/P07_NxnMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodsExercise/P08_FactorialDivision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodsExercise/P10_TopNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MethodsExercise/P09_PalindromeIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodsExercise/P09_PalindromeIntegers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +88,7 @@
     "Application.P07_WaterOverflow.executor": "Run",
     "Application.P08_BeerKegs.executor": "Run",
     "Application.P08_DivisibleBy3.executor": "Run",
+    "Application.P08_FactorialDivision.executor": "Run",
     "Application.P08_LowerOrUpper.executor": "Run",
     "Application.P08_MagicSum.executor": "Run",
     "Application.P08_MathPower.executor": "Run",
@@ -98,12 +97,14 @@
     "Application.P09_CenturiesToMinutes.executor": "Run",
     "Application.P09_GreaterOfTwoValues.executor": "Run",
     "Application.P09_Orders.executor": "Run",
+    "Application.P09_PalindromeIntegers.executor": "Run",
     "Application.P09_SpiceMustFlow.executor": "Run",
     "Application.P09_SumOfOddNumbers.executor": "Run",
     "Application.P10_MultiplicationTable.executor": "Run",
     "Application.P10_MultiplyEvenByOdds.executor": "Debug",
     "Application.P10_SpecialNumbers.executor": "Run",
     "Application.P10_TheLift.executor": "Run",
+    "Application.P10_TopNumber.executor": "Run",
     "Application.P11_EvenNumber.executor": "Run",
     "Application.P11_MathOperations.executor": "Run",
     "Application.P11_RageExpenses.executor": "Debug",
@@ -273,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717617762650</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1717692540231</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1717692540231</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
