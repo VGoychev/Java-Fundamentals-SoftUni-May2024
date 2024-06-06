@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6556c743-44f9-4c5d-bffc-2c8e6328d442" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/MethodsExercise/P04_PasswordValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodsExercise/P05_AddAndSubtract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodsExercise/P06_MiddleCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodsExercise/P07_NxnMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodsExercise/P08_FactorialDivision.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +67,7 @@
     "Application.P04_ReverseString.executor": "Run",
     "Application.P04_SumOfChars.executor": "Debug",
     "Application.P04_TownInfo.executor": "Run",
+    "Application.P05_AddAndSubtract.executor": "Run",
     "Application.P05_ConcatNames.executor": "Run",
     "Application.P05_EvenAndOddSubtraction.executor": "Run",
     "Application.P05_Login.executor": "Run",
@@ -74,9 +78,11 @@
     "Application.P06_CharsToString.executor": "Run",
     "Application.P06_EqualArrays.executor": "Run",
     "Application.P06_EqualSums.executor": "Debug",
+    "Application.P06_MiddleCharacters.executor": "Run",
     "Application.P06_StrongNumber.executor": "Run",
     "Application.P06_TriplesOfLatinLetters.executor": "Debug",
     "Application.P07_CondenseArrayToNumber.executor": "Debug",
+    "Application.P07_NxnMatrix.executor": "Run",
     "Application.P07_RepeatString.executor": "Run",
     "Application.P07_ReversedChars.executor": "Run",
     "Application.P07_TheatrePromotions.executor": "Run",
@@ -259,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717614402195</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1717617762650</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1717617762650</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
