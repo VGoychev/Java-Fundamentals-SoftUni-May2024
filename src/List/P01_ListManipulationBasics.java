@@ -10,7 +10,7 @@ public class P01_ListManipulationBasics {
         Scanner scanner = new Scanner(System.in);
         List<Integer> numbers = Arrays.stream(scanner.nextLine().split(" "))
                 .map(Integer::parseInt)
-                .toList();
+                .collect(Collectors.toList());
         while (true){
             String line = scanner.nextLine();
             if(line.equals("end")){
@@ -24,7 +24,7 @@ public class P01_ListManipulationBasics {
                     break;
                 case "Remove":
                     int numberToRemove = Integer.parseInt(tokens[1]);
-                    numbers.remove(numberToRemove);
+                    numbers.remove(Integer.valueOf(numberToRemove));
                     break;
                 case "RemoveAt":
                     int numberToRemoveAt = Integer.parseInt(tokens[1]);
@@ -33,7 +33,7 @@ public class P01_ListManipulationBasics {
                 case "Insert":
                     int numberToInsert = Integer.parseInt(tokens[1]);
                     int indexToInsert = Integer.parseInt(tokens[2]);
-                    numbers.add(numberToInsert,indexToInsert);
+                    numbers.add(indexToInsert,numberToInsert);
                     break;
             }
         }

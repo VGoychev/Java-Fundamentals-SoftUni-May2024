@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6556c743-44f9-4c5d-bffc-2c8e6328d442" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/List/P01_ListManipulationBasics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodsMoreExercises/P03_LongerLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodsMoreExercises/P04_TribonacciSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodsMoreExercises/P05_MultiplicationSign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodsMoreExercises/P06_ArrayManipulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/P02_GaussTrick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/P03_MergingLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/P04_ListManipulationAdvanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/P05_ListOfProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/P06_RemoveNegativesAndReverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MethodsMoreExercises/P02_CenterPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodsMoreExercises/P02_CenterPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List/P01_ListManipulationBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/P01_ListManipulationBasics.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +54,13 @@
     "Application.P02_CommonElements.executor": "Debug",
     "Application.P02_Division.executor": "Run",
     "Application.P02_EnglishNameOfTheLastDigit.executor": "Run",
+    "Application.P02_GaussTrick.executor": "Debug",
     "Application.P02_Grades.executor": "Run",
     "Application.P02_SumDigits.executor": "Run",
     "Application.P02_VowelsCount.executor": "Run",
     "Application.P03_CharactersInRange.executor": "Run",
     "Application.P03_ExactSumOfRealNumbers.executor": "Run",
+    "Application.P03_MergingLists.executor": "Run",
     "Application.P03_PrintingTriangle.executor": "Run",
     "Application.P03_SumEvenNumbers.executor": "Run",
     "Application.P03_Vacation.executor": "Run",
@@ -86,6 +88,7 @@
     "Application.P06_EqualArrays.executor": "Run",
     "Application.P06_EqualSums.executor": "Debug",
     "Application.P06_MiddleCharacters.executor": "Run",
+    "Application.P06_RemoveNegativesAndReverse.executor": "Run",
     "Application.P06_StrongNumber.executor": "Run",
     "Application.P06_TriplesOfLatinLetters.executor": "Debug",
     "Application.P07_CondenseArrayToNumber.executor": "Debug",
@@ -307,7 +310,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717698191032</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1718046849334</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1718046849334</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
