@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6556c743-44f9-4c5d-bffc-2c8e6328d442" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/ListExercise/P06_CardsGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListExercise/P07_AppendArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListExercise/P08_AnonymousThreat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListExercise/P09_PokemonDontGo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -364,7 +364,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718302189268</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1718440451118</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1718440451118</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
