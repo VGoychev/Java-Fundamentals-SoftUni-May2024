@@ -25,8 +25,15 @@ public class P05_Students {
             currentStudent.setLastName(lastName);
             currentStudent.setAge(age);
             currentStudent.setHomeTown(homeTown);
-
-            students.add(currentStudent);
+            if (IsStudentExisting(students,firstName,lastName)){
+                Student student = getStudent(students,firstName,lastName);
+                student.setFirstName(firstName);
+                student.setLastName(lastName);
+                student.setAge(age);
+                student.setHomeTown(homeTown);
+            } else {
+                students.add(currentStudent);
+            }
         }
         String town = scanner.nextLine();
         for (Student student : students){
@@ -34,5 +41,24 @@ public class P05_Students {
                 System.out.printf("%s %s is %d years old%n",student.getFirstName(), student.getLastName(), student.getAge());
             }
         }
+    }
+
+    private static boolean IsStudentExisting(List<Student> students, String firstName, String lastName){
+        for (Student student : students){
+            if (student.getFirstName().equals(firstName) && student.getLastName().equals(lastName)){
+                return true;
+            }
+        }
+        return false;
+    }
+    private static Student getStudent(List<Student> students, String firstName, String lastName){
+        Student existingStudent = null;
+
+        for (Student student : students){
+            if (student.getFirstName().equals(firstName) && student.getLastName().equals(lastName)){
+                existingStudent = student;
+            }
+        }
+        return existingStudent;
     }
 }
