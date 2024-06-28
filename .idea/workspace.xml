@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6556c743-44f9-4c5d-bffc-2c8e6328d442" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/MidExam/Task_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/Task_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/Task_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsAndClasses/P01_RandomizeWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsAndClasses/P02_SumBigNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsAndClasses/P03_BigFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsAndClasses/P04_Song/P04_Songs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsAndClasses/P04_Song/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsAndClasses/P05_Students/P05_Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsAndClasses/P05_Students/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +52,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.DayOfWeek.executor": "Run",
     "Application.P01_Ages.executor": "Run",
     "Application.P01_ComputerStore.executor": "Run",
@@ -55,6 +60,7 @@
     "Application.P01_DataTypes.executor": "Run",
     "Application.P01_IntegerOperations.executor": "Run",
     "Application.P01_ListManipulationBasics.executor": "Run",
+    "Application.P01_RandomizeWords.executor": "Run",
     "Application.P01_SignOfInteger.executor": "Run",
     "Application.P01_SmallestOfThreeNumbers.executor": "Run",
     "Application.P01_SortNumbers.executor": "Run",
@@ -68,6 +74,7 @@
     "Application.P02_GaussTrick.executor": "Debug",
     "Application.P02_Grades.executor": "Run",
     "Application.P02_MuOnline.executor": "Run",
+    "Application.P02_SumBigNumbers.executor": "Run",
     "Application.P02_SumDigits.executor": "Run",
     "Application.P02_VowelsCount.executor": "Run",
     "Application.P03_CharactersInRange.executor": "Run",
@@ -88,6 +95,7 @@
     "Application.P04_PrintAndSum.executor": "Run",
     "Application.P04_ReverseAnArrayOfStrings.executor": "Debug",
     "Application.P04_ReverseString.executor": "Run",
+    "Application.P04_Songs.executor": "Run",
     "Application.P04_SumOfChars.executor": "Debug",
     "Application.P04_TownInfo.executor": "Run",
     "Application.P05_AddAndSubtract.executor": "Run",
@@ -432,7 +440,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719051017311</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1719131211071</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1719131211071</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
