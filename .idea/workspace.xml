@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6556c743-44f9-4c5d-bffc-2c8e6328d442" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/AssociativeArrays/P01_CountRealNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssociativeArrays/P02_WordSynonyms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssociativeArrays/P03_OddOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssociativeArrays/P04_WordFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssociativeArraysExercise/P01_CountCharsInAString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +81,7 @@
     "Application.P03_HouseParty.executor": "Run",
     "Application.P03_MergingLists.executor": "Run",
     "Application.P03_MovingTarget.executor": "Run",
+    "Application.P03_OddOccurrences.executor": "Run",
     "Application.P03_PrintingTriangle.executor": "Run",
     "Application.P03_SumEvenNumbers.executor": "Run",
     "Application.P03_Vacation.executor": "Run",
@@ -94,6 +98,7 @@
     "Application.P04_Songs.executor": "Run",
     "Application.P04_SumOfChars.executor": "Debug",
     "Application.P04_TownInfo.executor": "Run",
+    "Application.P04_WordFilter.executor": "Run",
     "Application.P05_AddAndSubtract.executor": "Run",
     "Application.P05_BombNumbers.executor": "Run",
     "Application.P05_ConcatNames.executor": "Run",
@@ -494,7 +499,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719661880865</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1720253599395</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1720253599395</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
