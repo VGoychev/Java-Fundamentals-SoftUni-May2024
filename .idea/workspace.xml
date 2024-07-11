@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6556c743-44f9-4c5d-bffc-2c8e6328d442" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/AssociativeArraysExercise/P03_Orders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssociativeArraysExercise/P04_SoftUniParking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssociativeArraysExercise/P05_Courses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssociativeArraysExercise/P06_StudentAcademy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssociativeArraysExercise/P07_LegendaryFarming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssociativeArraysExercise/P08_CompanyUsers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TextProcessing/P01_ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TextProcessing/P02_RepeatStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AssociativeArraysExercise/P02_AMinerTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AssociativeArraysExercise/P02_AMinerTask.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +58,7 @@
     "Application.P01_IntegerOperations.executor": "Run",
     "Application.P01_ListManipulationBasics.executor": "Run",
     "Application.P01_RandomizeWords.executor": "Run",
+    "Application.P01_ReverseString.executor": "Run",
     "Application.P01_SignOfInteger.executor": "Run",
     "Application.P01_SmallestOfThreeNumbers.executor": "Run",
     "Application.P01_SortNumbers.executor": "Run",
@@ -523,7 +519,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720291137845</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1720352091649</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1720352091649</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
