@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6556c743-44f9-4c5d-bffc-2c8e6328d442" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/TextProcessing/P04_TextFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextProcessing/P05_DigitsLettersAndOther.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextProcessingExercise/P01_ValidUsernames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextProcessingExercise/P02_CharacterMultiplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextProcessingExercise/P03_ExtractFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextProcessingExercise/P04_CaesarCipher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextProcessingExercise/P05_MultiplyBigNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextProcessingExercise/P06_ReplaceRepeatingChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextProcessingExercise/P07_StringExplosion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RegularExpressions/P01_MatchFullName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RegularExpressions/P02_MatchPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RegularExpressions/P03_MatchDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RegularExpressionsExercise/P01_Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RegularExpressionsExercise/P02_SoftUniBarIncome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,8 +58,10 @@
     "Application.P01_CountCharsInAString.executor": "Run",
     "Application.P01_CountRealNumbers.executor": "Run",
     "Application.P01_DataTypes.executor": "Run",
+    "Application.P01_Furniture.executor": "Run",
     "Application.P01_IntegerOperations.executor": "Run",
     "Application.P01_ListManipulationBasics.executor": "Run",
+    "Application.P01_MatchFullName.executor": "Run",
     "Application.P01_RandomizeWords.executor": "Run",
     "Application.P01_ReverseString.executor": "Run",
     "Application.P01_SignOfInteger.executor": "Run",
@@ -81,6 +79,7 @@
     "Application.P02_EnglishNameOfTheLastDigit.executor": "Run",
     "Application.P02_GaussTrick.executor": "Debug",
     "Application.P02_Grades.executor": "Run",
+    "Application.P02_MatchPhoneNumber.executor": "Run",
     "Application.P02_MuOnline.executor": "Run",
     "Application.P02_RepeatStrings.executor": "Run",
     "Application.P02_SumBigNumbers.executor": "Run",
@@ -552,7 +551,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720817441035</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1720873757542</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1720873757542</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
