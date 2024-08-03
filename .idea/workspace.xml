@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6556c743-44f9-4c5d-bffc-2c8e6328d442" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/ExamPreparation2/P01_ActivationKeys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamPreparation2/P02_FancyBarcodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamPreparation2/P03_PlantDiscovery.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamPreparation1/P03_ThePianist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPreparation1/P03_ThePianist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPreparation2/P01_ActivationKeys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPreparation2/P01_ActivationKeys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPreparation2/P02_FancyBarcodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPreparation2/P02_FancyBarcodes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +74,7 @@
     "Application.P02_CommonElements.executor": "Debug",
     "Application.P02_Division.executor": "Run",
     "Application.P02_EnglishNameOfTheLastDigit.executor": "Run",
+    "Application.P02_FancyBarcodes.executor": "Debug",
     "Application.P02_GaussTrick.executor": "Debug",
     "Application.P02_Grades.executor": "Run",
     "Application.P02_MatchPhoneNumber.executor": "Run",
@@ -190,14 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715788269892</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Initial commit">
-      <option name="closed" value="true" />
-      <created>1715795322387</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1715795322387</updated>
     </task>
     <task id="LOCAL-00002" summary="Initial commit">
       <option name="closed" value="true" />
@@ -583,7 +574,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722626543299</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1722700857826</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1722700857826</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
