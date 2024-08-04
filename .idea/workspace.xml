@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6556c743-44f9-4c5d-bffc-2c8e6328d442" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamPreparation2/P01_ActivationKeys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPreparation2/P01_ActivationKeys.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamPreparation2/P02_FancyBarcodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPreparation2/P02_FancyBarcodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinalExam/Task_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FinalExam/Task_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinalExam/Task_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FinalExam/Task_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinalExam/Task_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FinalExam/Task_03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +172,7 @@
     "Application.PrintNumbersInReverseOrder.executor": "Debug",
     "Application.Task_01.executor": "Run",
     "Application.Task_02.executor": "Run",
-    "Application.Task_03.executor": "Run",
+    "Application.Task_03.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -189,22 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715788269892</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Initial commit">
-      <option name="closed" value="true" />
-      <created>1715795369320</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1715795369320</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Initial commit">
-      <option name="closed" value="true" />
-      <created>1715965008602</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1715965008602</updated>
     </task>
     <task id="LOCAL-00004" summary="Initial commit">
       <option name="closed" value="true" />
@@ -582,7 +567,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722700857826</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1722717491748</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1722717491748</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1722717613115</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1722717613117</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -599,5 +600,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FinalExam/Task_03.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
