@@ -55,7 +55,7 @@ public class Task_01 {
                     }
                     break;
                 case "Remove":
-                    int start = 0;
+                    int start;
                     String word = command[1];
                     while ((start = message.indexOf(word)) != -1) {
                         message.delete(start, start + word.length());
